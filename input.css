@@ -30,6 +30,7 @@ nav{
     border-radius: 10px;
     background-image: url(pexels-benjamin-lehman-14536020.jpg);
     background-size: cover;
+    background-position:center;
 }
 .second{
     height: 45vh;
